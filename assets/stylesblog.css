@@ -15,12 +15,15 @@ p{
     font-size: larger;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:justify;
+    margin-left: 7em;
+    margin-right: 7em;
 }
 .destacar{
     float: left;
     color:rgb(162, 159, 136);
     font-size: 25px;
     border-right: 3px solid rgb(162, 159, 136);
+    margin-left: 7em;
 }
 .container{
     text-align: center;
@@ -51,8 +54,11 @@ footer{
     font-family: 'Courier New', Courier, monospace;
 }
 .imagen{
-    width: 1500px;
-    height: 450px;
+    width: 1200px;
+    height: auto;
+}
+.imgcentro{
+    text-align: center;
 }
 h4{
     color: rgb(81, 147, 188);
