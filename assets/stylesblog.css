@@ -26,11 +26,23 @@ p{
     margin-left: 7em;
 }
 .container{
+   /*  text-align: center; */
+   /*  background: rgb(162, 159, 136); Borro estos dos Items, porque Container debe abrazar el Blog y lo dejo mas abajo declarado como lo que seria el header*/
+    padding: 3rem;
+}
+/* header{
+    color: white;
+    float: left;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+} COMENTARIO: Borro esto porque la etiqueta header la voy a usar como etiqueta y le voy a dar otro formato:*/
+header{
     text-align: center;
     background: rgb(162, 159, 136);
     padding: 3rem;
 }
-header{
+
+.encabDer{
     color: white;
     float: left;
     font-size: 30px;
@@ -40,8 +52,10 @@ header{
     color: white;
     float: right;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
 }
-footer{
+.firma{
     color: rgb(81, 147, 188);
     text-align: right;
     font-size: 23px;
@@ -67,5 +81,16 @@ h4{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .remarcar{
-    text-shadow: 5cm;
+   /*  text-shadow: 5cm;  lo quito porque no se fucnciona poner? lo corrijo con una pagina que tal vez te sirve 
+   https://cssgenerator.org/text-shadow-css-generator.html
+   */
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.2);
+    background: white;
+
+}
+footer{
+    text-align: center;
+    margin: 0 30%;
+    padding: 2rem;
+    border-top: 1px gray solid;
 }

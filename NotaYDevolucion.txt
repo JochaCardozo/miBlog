@@ -1,0 +1,25 @@
+
+
+Jocha, de Primera este Blog!! Me encantó. 
+
+Cosas para mejorar: 
+
+El "Espaiglish": Trata de escribir o todo en Español o todo en Ingles. En la programción se usa mucho el Ingles porque no tienen simbolos raros (como la ñ que pueden generar confusión). 
+Además es importante entender que el código que escribimos seguro lo compartimos con otra, ya sea del equipo o alguien que luego lo tomará. 
+
+Otro concepto a tener en cuenta es ser claro al momento de poner clases (o identificadores) es lo mejor. Vos lo has hecho perfecto, salvando algunas excepciones. 
+Por ejemplo: algo que cambiaría es en vez de la clase "remarcar" pondría "remarcarParrafo". Vuelva a repetir, me he puesto en jodido porque está todo excelente y se que ta va a servir para mejorar. 
+
+Otra cosa que corregí fue el nombre del archivo prinicpal. 
+La buena practica es que se index.algo (index.html, en este caso). 
+Y en el caso de nombrar otro archivo (no el principal) la buena practica es no usar espacio. Se usa el CamelCase o escribir_con_guiones.
+
+El resto de las correcciones las vas a ver en los archivos index y stylesBlog.
+
+NOTA: 10. 
+Las correcciones son sola para ir mejorando porque venis muy bien! Me pone orgulloso que hayas entendido. 
+
+Abrazo,
+
+para que le muestres a tus familiares y amigos:
+https://
